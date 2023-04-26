@@ -1,1 +1,1 @@
-# STAT2102-Applied-Stat-Methods
+# STAT2102-Applied-Stat-Computing
